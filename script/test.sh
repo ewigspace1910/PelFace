@@ -1,0 +1,1 @@
+python examples/test.py --c configs/softmax.yaml --cpu --p ./save/arcface/ckpt/checkpoint.pth
