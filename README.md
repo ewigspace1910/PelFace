@@ -1,7 +1,6 @@
 # PelFace
 
-The *official* implementation for the ["**A Novel Deep Ensemble Learning to Enhance User Authentication in Autonomous Vehicles**"]()
-<!-- which is accepted by [TASE 2023]()-->
+The *official* implementation for the ["**A Novel Deep Ensemble Learning to Enhance User Authentication in Autonomous Vehicles**"](10.1109/TASE.2023.3270764) -- which is accepted in IEEE Transactions on Automation Science and Engineering (2023)
 
 >We firstly investigate and analyzes the effect of several effective loss functions based on softmax on DCNN with the ResNet architecture. 
 >We then propose a parallel ensemble learning, namely PelFace, by taking advantage of recent novel face recognition methods: CosFace, ArcFace, and MagFace. 
